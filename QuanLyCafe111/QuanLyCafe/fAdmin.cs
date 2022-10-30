@@ -96,9 +96,9 @@ namespace QuanLyCafe
             catch { }
         }
 
-        List<Food> SearchFoodByName(string name)
+        List<SanPham> SearchFoodByName(string name)
         {
-            List<Food> listFood = FoodDAO.Instance.SearchFoodByName(name);
+            List<SanPham> listFood = SanPhamDAO.Instance.SearchFoodByName(name);
 
             return listFood;
         }
@@ -115,7 +115,7 @@ namespace QuanLyCafe
         }
         void LoadListFood()
         {
-            ListFood.DataSource = FoodDAO.Instance.GetListFood();
+            ListFood.DataSource = SanPhamDAO.Instance.GetListFood();
         }
 
         void LoadListBillByDate(DateTime checkIn, DateTime checkOut)
@@ -158,7 +158,7 @@ namespace QuanLyCafe
             int categogyID = (cb_foodCategory.SelectedItem as Category).Id;
             float price = (float)nm_foodPrice.Value;
 
-            if(FoodDAO.Instance.InsertFood(name, categogyID, price))
+            if(SanPhamDAO.Instance.InsertFood(name, categogyID, price))
             {
                 MessageBox.Show("Thêm món thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.None);
                 LoadListFood();
@@ -177,7 +177,7 @@ namespace QuanLyCafe
             float price = (float)nm_foodPrice.Value;
             int id = Convert.ToInt32(txt_foodID.Text);
 
-            if (FoodDAO.Instance.UpdateFood(id, name, categogyID, price))
+            if (SanPhamDAO.Instance.UpdateFood(id, name, categogyID, price))
             {
                 MessageBox.Show("Sửa món thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.None);
                 LoadListFood();
@@ -193,7 +193,7 @@ namespace QuanLyCafe
         {
             int id = Convert.ToInt32(txt_foodID.Text);
 
-            if (FoodDAO.Instance.DeleteFood(id))
+            if (SanPhamDAO.Instance.DeleteFood(id))
             {
                 MessageBox.Show("Xoá món thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.None);
                 LoadListFood();

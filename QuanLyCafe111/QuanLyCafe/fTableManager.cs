@@ -50,7 +50,7 @@ namespace QuanLyCafe
 
         void LoadFoodByCategoryID(int id)
         {
-            List<Food> listFood = FoodDAO.Instance.GetListFoodByCategoryID(id);
+            List<SanPham> listFood = SanPhamDAO.Instance.GetListFoodByCategoryID(id);
             cb_Food.DataSource = listFood;
             cb_Food.DisplayMember = "Name";
         }
@@ -241,7 +241,7 @@ namespace QuanLyCafe
             }
 
             int idBill = BillDAO.Instance.getUncheckBillIDbyTableID(table.ID);
-            int idFood = (cb_Food.SelectedItem as Food).Id;
+            int idFood = (cb_Food.SelectedItem as SanPham).Id;
             int count = (int)nm_foodCount.Value;
 
             if (idBill == -1)

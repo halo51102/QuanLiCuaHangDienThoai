@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace QuanLyCafe.DTO
 {
-    public class Food
+    public class SanPham
     {
-        public Food(int id, string name, int categoryID, float price)
+        public SanPham(int id, string name, int categoryID, float price)
         {
             this.Id = id;
             this.Name = name;
@@ -17,7 +17,7 @@ namespace QuanLyCafe.DTO
             this.Price = price;
         }
 
-        public Food(DataRow row)
+        public SanPham(DataRow row)
         {
             this.Id = (int)row["id"];
             this.Name = row["name"].ToString();
