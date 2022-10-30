@@ -50,7 +50,7 @@ namespace QuanLyCafe
 
         void LoadFoodByCategoryID(int id)
         {
-            List<Food> listFood = SanPhamDAO.Instance.GetListFoodByCategoryID(id);
+            List<Food> listFood = FoodDAO.Instance.GetListFoodByCategoryID(id);
             cb_Food.DataSource = listFood;
             cb_Food.DisplayMember = "Name";
         }

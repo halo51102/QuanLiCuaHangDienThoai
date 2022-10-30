@@ -65,3 +65,12 @@ C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.exe
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
