@@ -74,3 +74,23 @@ C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\Users\Admin\Documents\GitHub\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTE - K20\DBMS\New folder (2)\QuanLiCuaHangDienThoai\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
