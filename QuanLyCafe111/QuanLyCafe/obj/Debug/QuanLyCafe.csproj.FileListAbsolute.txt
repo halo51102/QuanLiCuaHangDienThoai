@@ -1,0 +1,57 @@
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK3\LT_Windows\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyCafe111\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
