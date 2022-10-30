@@ -20,31 +20,31 @@ namespace QuanLyCafe.DAO
 
         private FoodDAO() { }
 
-        public List<SanPham> GetListFoodByCategoryID(int id)
+        public List<Food> GetListFoodByCategoryID(int id)
         {
-            List<SanPham> list = new List<SanPham>();
+            List<Food> list = new List<Food>();
 
             string query = "Select * from Food where idCategory = " + id;
             DataTable data = DataProvider.Instance.ExecuteQuery(query);
 
             foreach (DataRow item in data.Rows)
             {
-                SanPham food = new SanPham(item);
+                Food food = new Food(item);
                 list.Add(food);
             }
             return list;
         }
 
-        public List<SanPham> GetListFood()
+        public List<Food> GetListFood()
         {
-            List<SanPham> list = new List<SanPham>();
+            List<Food> list = new List<Food>();
 
             string query = "Select * from Food";
             DataTable data = DataProvider.Instance.ExecuteQuery(query);
 
             foreach (DataRow item in data.Rows)
             {
-                SanPham food = new SanPham(item);
+                Food food = new Food(item);
                 list.Add(food);
             }
             return list;
@@ -56,16 +56,16 @@ namespace QuanLyCafe.DAO
             return DataProvider.Instance.ExecuteQuery(query);
         }
 
-        public List<SanPham> SearchFoodByName(string name)
+        public List<Food> SearchFoodByName(string name)
         {
-            List<SanPham> list = new List<SanPham>();
+            List<Food> list = new List<Food>();
 
             string query = string.Format("Select * from Food where name = N'%{0}%'", name);
             DataTable data = DataProvider.Instance.ExecuteQuery(query);
 
             foreach (DataRow item in data.Rows)
             {
-                SanPham food = new SanPham(item);
+                Food food = new Food(item);
                 list.Add(food);
             }
             return list;
@@ -103,7 +103,7 @@ namespace QuanLyCafe.DAO
             {
                 foreach (DataRow item in data.Rows)
                 {
-                    SanPham food = new SanPham(item);
+                    Food food = new Food(item);
                     BillInfoDAO.Instance.DeleteBillInfoByFoodID(food.Id);
                 }
             }

@@ -96,9 +96,9 @@ namespace QuanLyCafe
             catch { }
         }
 
-        List<SanPham> SearchFoodByName(string name)
+        List<Food> SearchFoodByName(string name)
         {
-            List<SanPham> listFood = SanPhamDAO.Instance.SearchFoodByName(name);
+            List<Food> listFood = SanPhamDAO.Instance.SearchFoodByName(name);
 
             return listFood;
         }
