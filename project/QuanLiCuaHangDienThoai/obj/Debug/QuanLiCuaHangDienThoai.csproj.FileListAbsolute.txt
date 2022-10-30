@@ -1,0 +1,10 @@
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.exe.config
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.exe
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.pdb
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.AssemblyReference.cache
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.SuggestedBindingRedirects.cache
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.Properties.Resources.resources
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.GenerateResource.cache
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.CoreCompileInputs.cache
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.exe
+D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.pdb
